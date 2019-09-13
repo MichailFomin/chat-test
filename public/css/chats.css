@@ -1,0 +1,11 @@
+html, body {
+    font-family: 'Segoe UI Light', 'Helvetica Neue';
+}
+
+#greeting {
+    text-align: center;
+}
+
+#chat-window {
+    height: 200px;
+}
